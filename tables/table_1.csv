@@ -1,0 +1,11 @@
+,Model,EN-DE,BLEU EN-FR,Training EN-DE,Cost (FLOPs) EN-FR
+0,ByteNet [15] 23.75,,,,
+1,Deep-Att + PosUnk [32],,39.2,,1.0- 107°
+2,GNMT + RL [31],24.6,39.92,2.3-10!9,1.4-1070
+3,ConvS2S [8],25.16,40.46,9.6-10'%,1.5-1070
+4,MoE [26],26.03,40.56,2.0-10'9,1.2. 107°
+5,Deep-Att + PosUnk Ensemble [32],,40.4,,8.0 - 107°
+6,GNMT + RL Ensemble [31],26.30,41.16,18-1079,1.1- 1074
+7,ConvS2S Ensemble [8],26.36,41.29,7.7-10!9,1.2.10?!
+8,Transformer (base model),273,38.1,3.3-,1018
+9,Transformer (big),28.4,41.0,2.3.,1019

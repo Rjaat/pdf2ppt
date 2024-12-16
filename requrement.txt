@@ -1,0 +1,11 @@
+langchain
+openai
+tiktoken
+langchain_community
+python-pptx
+chromadb
+faiss-cpu 
+tabula-py
+unstructured[all-docs]
+spacy
+h5py
